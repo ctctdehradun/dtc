@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:rolling
 MAINTAINER Elliot Crosby-McCullough "elliot@smart-casual.com"
 
 RUN apt-get install -y python-software-properties
